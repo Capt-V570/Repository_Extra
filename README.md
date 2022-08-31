@@ -10,6 +10,14 @@ Research the topics listed below and add a short definition of them **in your wo
 3.  - "How to check which version of git you have installed"
 4.  - "What is Semantic Versioning (SemVer)"
 5.  - "How to see previous commands I have done in Linux"
+6. - "VS Code tips and tricks"
+7. - "How to practice typing fast"
+8. - "What is DNS"
+9. - "Binary number system"
+10. - "Hexadecimal number system"
+11. - "What is ROT-13"
+
+
 
 # Replies:
 

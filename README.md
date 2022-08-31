@@ -14,10 +14,12 @@ Research the topics listed below and add a short definition of them **in your wo
 # Replies:
 
 1. - A good commit message should have some rules, e.g.:    - programmers should only commit working code
-                                                            - we should only commit logical set of changes
-                                                            - lenght should be defined by the individual private companies (or max 50 charachters long, usually)
+                                                            - programmers should only commit logical set of changes
+                                                            - Commit's lenght should be defined by the individual private companies (or max 50 charachters long, usually)
                                                             - programmers should use complete sentences
                                                             - programmers should start with an issue ID (e.g coming from a Ticketing System)
                                                             - Commit messaged should be written in 'Imperative Tense'
-                                                            
+
 2. - "Statiging" is aGit Environment. This environment gives you a way to queue up changes until you are ready to commit. 
+
+3. - In Terminal, type: <git --version> command to see which version of git you have installed on your computer.

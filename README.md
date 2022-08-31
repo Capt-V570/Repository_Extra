@@ -1,4 +1,4 @@
-# This is an Extra Repository created from scratch directly via Terminal
+# Learning about Git
 
 Research the topics listed below and add a short definition of them **in your words** to the README 
   - Surface level research for now, we are not making a PHD here...

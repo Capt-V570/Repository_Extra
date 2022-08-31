@@ -24,4 +24,7 @@ Research the topics listed below and add a short definition of them **in your wo
 
 3. - In Terminal, type: <git --version> command to see which version of git you have installed on your computer.
 
-4. - 'Semantic Versioning (SemVer)' is the most popular system of versioning unique states of the project. To have a universal way of versioning helps to keep things clean and simple and to keep track of the software changes.
+4. - 'Semantic Versioning (SemVer)' is the most popular system of versioning unique states of the project. 
+    To have a universal way of versioning helps to keep things clean and simple and to keep track of the software changes.
+
+5. - In Linux terminal, to see previous commands an user have done: simply hit 'arrow up', on the keyboard.

@@ -20,7 +20,7 @@ Research the topics listed below and add a short definition of them **in your wo
                                                             - programmers should start with an issue ID (e.g coming from a Ticketing System)
                                                             - Commit messaged should be written in 'Imperative Tense'
 
-2. - "Statiging" is aGit Environment. This environment gives you a way to queue up changes until you are ready to commit. 
+2. - "Staging" is aGit Environment. This environment gives you a way to queue up changes until you are ready to commit. 
 
 3. - In Terminal, type: <git --version> command to see which version of git you have installed on your computer.
 

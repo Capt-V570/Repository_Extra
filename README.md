@@ -23,3 +23,5 @@ Research the topics listed below and add a short definition of them **in your wo
 2. - "Statiging" is aGit Environment. This environment gives you a way to queue up changes until you are ready to commit. 
 
 3. - In Terminal, type: <git --version> command to see which version of git you have installed on your computer.
+
+4. - 'Semantic Versioning (SemVer)' is the most popular system of versioning unique states of the project. To have a universal way of versioning helps to keep things clean and simple and to keep track of the software changes.

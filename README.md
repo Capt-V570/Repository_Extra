@@ -19,4 +19,5 @@ Research the topics listed below and add a short definition of them **in your wo
                                                             - programmers should use complete sentences
                                                             - programmers should start with an issue ID (e.g coming from a Ticketing System)
                                                             - Commit messaged should be written in 'Imperative Tense'
-
+                                                            
+2. - "Statiging" is aGit Environment. This environment gives you a way to queue up changes until you are ready to commit. 

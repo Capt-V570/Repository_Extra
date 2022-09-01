@@ -28,11 +28,23 @@ Research the topics listed below and add a short definition of them **in your wo
                                                             - programmers should start with an issue ID (e.g coming from a Ticketing System)
                                                             - Commit messaged should be written in 'Imperative Tense'
 
-2. - "Staging" is a Git Environment. This environment gives you a way to queue up changes until you are ready to commit. 
+2. - "Staging" is the second Git Environment (the others being 1. Working and 3. Commit Envos). 
+     'Staging' environment gives you a way to queue up changes until you are ready to commit. 
+   - You can 'Staging' working files within the current directory, after saving them (Cntr+S), via the command <git add .>
+   - If you only want to stage one file, then type: <git add 'nameofthefilehere.fileextension'>
+
 
 3. - In Terminal, type: <git --version> command to see which version of git you have installed on your computer.
 
 4. - 'Semantic Versioning (SemVer)' is the most popular system of versioning unique states of the project. 
     To have a universal way of versioning helps to keep things clean and simple and to keep track of the software changes.
+    Given a version number (e.g.: version 4.0.1) meaning: MAJOR.MINOR.PATCH, increment the:
+
+    - MAJOR version when you make incompatible API changes
+    - MINOR version when you add functionality in a backwards compatible manner
+    - PATCH version when you make backwards compatible bug fixes
+
+    - Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
 5. - In Linux terminal, to see previous commands an user have done: simply hit 'arrow up', on the keyboard.
+   - Alternatively, within the Terminal, a very useful command is to simply type: <history>

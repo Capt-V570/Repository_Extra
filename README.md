@@ -28,7 +28,7 @@ Research the topics listed below and add a short definition of them **in your wo
                                                             - programmers should start with an issue ID (e.g coming from a Ticketing System)
                                                             - Commit messaged should be written in 'Imperative Tense'
 
-2. - "Staging" is the second Git Environment (the others being 1. Working and 3. Commit Envos). 
+2. - "Staging" is the second Git Environment [the others being (1.) Working and (3.) Commit Envos]. 
      'Staging' environment gives you a way to queue up changes until you are ready to commit. 
    - You can 'Staging' working files within the current directory, after saving them (Cntr+S), via the command <git add .>
    - If you only want to stage one file, then type: <git add 'nameofthefilehere.fileextension'>
